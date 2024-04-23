@@ -829,3 +829,6 @@ function OpenSceneBuilder()
     print 'Not an FXML file'
   end
 end
+
+-- tabwidth
+vim.opt.tabstop = 4
